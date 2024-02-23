@@ -1,0 +1,37 @@
+h1 {
+    color:lightgray;
+    font-family: "JetBrains Mono","Times New Roman" ,serif;
+    font-size:64px;
+    font-weight:bold;
+    text-align:center;
+}
+
+#lasagna{
+    color:lightgray;
+    font-family: "JetBrains Mono","Times New Roman" ,serif;
+    font-size:32px;
+    font-weight:bold;
+    text-align:center;
+}
+
+#description{
+    font-weight:lighter;
+    font-style: italic;
+}
+
+.recipe-list-items{
+    font-family: "JetBrains Mono",serif;
+    font-size:24px;
+    font-weight:lighter;
+}
+
+.subheadings{
+    font-family: "JetBrains Mono",serif;
+    font-size:24px;
+    font-weight:lighter;
+}
+
+.content{
+    font-family: Inter,serif;
+    font-size:20px;
+}
